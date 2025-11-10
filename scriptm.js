@@ -1,4 +1,4 @@
-<script>
+
         function mfSelectOPerate(id) {
             let selectElem = document.getElementById(id);
 
@@ -144,4 +144,3 @@
                 Select.style.color = '#555';
             });
         });
-    </script>
