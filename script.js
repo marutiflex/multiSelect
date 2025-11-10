@@ -1,6 +1,4 @@
 <script>
-        let mfSelectData = ["io", "io2"];
-
         function mfSelectOPerate(id) {
             let selectElem = document.getElementById(id);
 
